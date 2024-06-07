@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #1a489d;
+}
+
+h2 {
+    margin-top: 2rem;
+    text-align: center;
+}
+.card {
+    margin-bottom: 2rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
+#about {
+    color: rgb(219, 223, 4);
+}
+.namee {
+    color: rgb(11, 11, 10);
+}
+.bold {
+    color: black;
+}
+.biodata {
+    text-align: center;
+
+}
+#imgg {
+    border-radius: 50%;
+}
